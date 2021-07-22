@@ -1,2 +1,10 @@
+# Start of script
+# Cannot get GitHub to recognize KiXtart as a language (as of Wednesday, July 21st 2021) I will leave this here in case it is supported in the future
 *.kix linguist-detectable=true
 *.kix linguist-documentation=false
+# So for now, I select YAML as the project language for this project
+*.yml linguist-detectable=true
+*.yml linguist-documentation=false
+*.yaml linguist-detectable=true
+*.yaml linguist-documentation=false
+# End of script
