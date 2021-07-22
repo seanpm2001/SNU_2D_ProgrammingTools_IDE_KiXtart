@@ -1,15 +1,15 @@
 
 ***
 
-# SNU-2D-ProgrammingTools-IDE-<languageNameWithHyphens>
+# SNU-2D-ProgrammingTools-IDE-KiXtart
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/LanguageLogo.svg)
+![KiXstart_Icon.png This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/KiXstart_Icon.png)
 
 # By:
 
 ![SNU Logo: This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](SNU_blue_and_gold_legacy_icon.png)
 
-## [SNU Programming Tools](https://github.com/SNU-Programming-Tools), Et; Al.
+## [Seanpm2001](https://github.com/seanpm2001/) / [SNU Programming Tools](https://github.com/SNU-Programming-Tools), Et; Al.
 
 ### Top
 
@@ -34,11 +34,11 @@ _🌐 List of languages_
 
 </details>
 
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of February 5th 2021. Please report translation errors [here](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_<LanguageNameWithUnderscores>/issues/) make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of February 5th 2021. Please report translation errors [here](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_KiXtart/issues/) make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
 
 Note: due to limitations with GitHub's interpretation of markdown (and pretty much every other web-based interpretation of markdown) clicking these links will redirect you to a separate file on a separate page that isn't my GitHub profile page. You will be redirected to the [seanpm2001/seanpm2001 repository](https://github.com/seanpm2001/seanpm2001), where the README is hosted.
 
-Translations are done with Google Translate due to limited or no support for the languages I need in other translation services like DeepL and Bing Translate. For some reason, the formatting (links, dividers, bolding, italics, etc.) is messed up in various translations. It is tedious to fix, and I do not know how to fix these issues in languages with non-latin characters, and right to left languages (like Arabic) extra help is needed in fixing these issues
+Translations are done with various translation services. For some reason, the formatting (links, dividers, bolding, italics, etc.) is messed up in various translations. It is tedious to fix, and I do not know how to fix these issues in languages with non-latin characters, and right to left languages (like Arabic) extra help is needed in fixing these issues
 
 ***
 
@@ -46,64 +46,78 @@ Translations are done with Google Translate due to limited or no support for the
 
 [00.0 - Top](#Top)
 
-> [00.1 - Title](#SNU-2D-ProgrammingTools-IDE-<LanguageNameWithHyphens>)
+> [00.1 - Title](#SNU-2D-ProgrammingTools-IDE-KiXtart)
 
 > [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
 
 > [00.3 - Index](#Index)
 
-[01.0 - Description](#SNU_2D_ProgrammingTools_IDE_<LanguageNameWithUnderscores>)
+[01.0 - Description](#SNU_2D_ProgrammingTools_IDE_KiXtart)
 
 [02.0 - About](#About)
 
-[03.0 - Wiki](#Wiki)
+[03.0 - History](#History)
 
-[04.0 - Version history](#Version-history)
+[04.0 - Wiki](#Wiki)
 
-[05.0 - Software status](#Software-status)
+[05.0 - Version history](#Version-history)
 
-[06.0 - Sponsor info](#Sponsor-info)
+[06.0 - Software status](#Software-status)
 
-[07.0 - Contributers](#Contributers)
+[07.0 - Sponsor info](#Sponsor-info)
 
-[08.0 - Issues](#Issues)
+[08.0 - Contributers](#Contributers)
 
-> [08.1 - Current issues](#Current-issues)
+[09.0 - Issues](#Issues)
 
-> [08.2 - Past issues](#Past-issues)
+> [09.1 - Current issues](#Current-issues)
 
-> [08.3 - Past pull requests](#Past-pull-requests)
+> [09.2 - Past issues](#Past-issues)
 
-> [08.4 - Active pull requests](#Active-pull-requests)
+> [09.3 - Past pull requests](#Past-pull-requests)
 
-[09.0 - Resources](#Resources)
+> [09.4 - Active pull requests](#Active-pull-requests)
 
-[10.0 - Contributing](#Contributing)
+[10.0 - Resources](#Resources)
 
-[11.0 - About README](#About-README)
+[11.0 - Contributing](#Contributing)
 
-[12.0 - README Version history](#README-version-history)
+[12.0 - About README](#About-README)
 
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+[13.0 - README Version history](#README-version-history)
 
-> [13.1 - End of file](#EOF)
+[14.0 - Footer](#Footer)
+
+> [14.1 - End of file](#EOF)
 
 ***
 
-# SNU_2D_ProgrammingTools_IDE_<LanguageNameWithHyphens>
-The <LanguageName> Programming language IDE submodule for SNU Programming Tools (2D Mode) 
+# SNU_2D_ProgrammingTools_IDE_KiXtart
+The KiXtart Programming language IDE submodule for SNU Programming Tools (2D Mode) 
 
 ***
 
 ## About
 
-See above. This repository is the IDE for <LanguageName> that comes with SNUs programming tool set.
+See above. This repository is the IDE for KiXtart that comes with SNUs programming tool set.
+
+***
+
+## History
+
+_This project has a very short history._
+
+This project is an IDE project for the KiXtart programming language and is part of the SNU Programming Tools ToolKit, which was started early in SNU development in mid-2019.
+
+This IDE project was created on July 16th 2021 to support the KiXtart language. Unfortunately, GitHub doesn't recognize KiXtart as a language or sub-language yet, so it does not have any Linguist data (as of Wednesday, July 21st 2021) meaning that syntax highlighting is currently unavailable.
+
+This project was updated on Wednesday, July 21st 2021 to fix some things and set YAML as a backup project language. The README.md file was updated, but a website for this project is currently unavailable.
 
 ***
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_<LanguageNameWithUnderscores>/wiki)
+[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_KiXtart/wiki)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
 
@@ -137,7 +151,7 @@ All of my works are free some restrictions. DRM (**D**igital **R**estrictions **
 
 This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
 
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
+I am using the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
 
 This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
 
@@ -149,7 +163,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of date, at xx:xx pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 15 commits (As of Wednesday, July 21st 2021 at 6:37 pm)
 
 > * 2. No other contributers.
 
@@ -219,18 +233,18 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-[Project language file](PROJECT_LANG.md)
+[Project language file A](PROJECT_LANG_1.kix)
 
-[Join the discussion on GitHub](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_<LanguageNameWithUnderscores>/discussions)
+[Join the discussion on GitHub](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_KiXtart/discussions)
 
 No other resources at the moment.
 
-This is the first time I am using Markdown as a project language file, as I learned how to make the GitHub linguist recognize Markdown as a language. I found this out when snooping around on [Apple/Swift Evolution](https://github.com/apple/swift-evolution/blob/main/.gitattributes) if you want to do this yourself, simply add this to your `.gitattributes` file (if you haven't created one yet, make it now, do not add anything else to the file name but `.gitattributes`)
+<!-- This is the first time I am using Markdown as a project language file, as I learned how to make the GitHub linguist recognize Markdown as a language. I found this out when snooping around on [Apple/Swift Evolution](https://github.com/apple/swift-evolution/blob/main/.gitattributes) if you want to do this yourself, simply add this to your `.gitattributes` file (if you haven't created one yet, make it now, do not add anything else to the file name but `.gitattributes`)
 
 ```gitattributes
 *.md linguist-detectable=true
 *.md linguist-documentation=false
-```
+``` !-->
 
 ***
 
@@ -246,15 +260,15 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 File type: `Markdown (*.md)`
 
-File version: `1 (date)`
+File version: `1 (Wednesday, July 21st 2021 at 6:37 pm)`
 
-Line count: `0,314`
+Line count: `0,350`
 
 ***
 
 ## README version history
 
-Version 1 (Date)
+Version 0.1 (Friday, June 18th 2021 at 6:00 pm)
 
 > Changes:
 
@@ -294,6 +308,26 @@ Version 1 (Date)
 
 > * No other changes in version 1
 
+Version 1 (Wednesday, July 21st 2021 at 6:37 pm)
+
+> Changes:
+
+> * Updated the file
+
+> * Replaced language tag data with the name of the language
+
+> * Updated the index
+
+> * Updated the title section
+
+> * Added the history section
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * No other changes in version 1
+
 Version 2 (Coming soon)
 
 > Changes:
@@ -304,9 +338,11 @@ Version 2 (Coming soon)
 
 ***
 
-### You have reached the end of the README file
+### Footer
 
-[Back to top](#Top) [Exit](https://github.com)
+You have reached the end of this file.
+
+( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to DuckDuckGo](https://duckduckgo.com/) )
 
 ### EOF
 
