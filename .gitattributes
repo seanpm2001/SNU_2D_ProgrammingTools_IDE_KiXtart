@@ -154,26 +154,25 @@
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
 # Roff
-# Does not need to be discluded
-# *.0 linguist-detectable=false
-# *.0 linguist-documentation=false
-# *.0 linguist-language=Roff
-# *.1 linguist-detectable=false
-# *.1 linguist-documentation=false
-# *.1 linguist-language=Roff
-# *.2 linguist-detectable=false
-# *.2 linguist-documentation=false
-# *.2 linguist-language=Roff
-# *.3 linguist-detectable=false
-# *.3 linguist-documentation=false
-# *.3 linguist-language=Roff
-# *.roff linguist-detectable=false
-# *.roff linguist-documentation=false
-# *.roff linguist-language=Roff
+*.0 linguist-detectable=false
+*.0 linguist-documentation=false
+*.0 linguist-language=Roff
+*.1 linguist-detectable=false
+*.1 linguist-documentation=false
+*.1 linguist-language=Roff
+*.2 linguist-detectable=false
+*.2 linguist-documentation=false
+*.2 linguist-language=Roff
+*.3 linguist-detectable=false
+*.3 linguist-documentation=false
+*.3 linguist-language=Roff
+*.roff linguist-detectable=false
+*.roff linguist-documentation=false
+*.roff linguist-language=Roff
 # End of linguist script
 
 # File info
 # File type: gitattributes file (*.gitattributes)
-# File version: 2 (2022, Wednesday, October 5th at 5:26 pm PST)
-# Line count (including blank lines and compiler line): 180
+# File version: 4 (2022, Wednesday, October 5th at 5:33 pm PST)
+# Line count (including blank lines and compiler line): 179
 # End of script
